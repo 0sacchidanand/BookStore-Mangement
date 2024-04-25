@@ -23,7 +23,7 @@ This is a simple book management system built using Spring Boot. It allows users
 1. **Clone the repository:**
 
 ```bash
-git clone 
+git clone  https://github.com/0sacchidanand/BookStore-Mangement.git
 
 
 6. **Access the application:**
